@@ -1,0 +1,19 @@
+text,label
+"The package arrived quickly and works perfectly",positive
+"Excellent quality and helpful support",positive
+"Really happy with this purchase",positive
+"Setup was simple and the instructions were clear",positive
+"Fast delivery and a great product",positive
+"The team solved my issue right away",positive
+"It stopped working after one day",negative
+"The delivery was late and the box was damaged",negative
+"Very disappointing quality for the price",negative
+"Support never replied to my messages",negative
+"The instructions were confusing and incomplete",negative
+"I want a refund because this did not work",negative
+"Can you tell me when my order will arrive",question
+"How do I change the email on my account",question
+"Where can I find the setup guide",question
+"Is this item available in blue",question
+"Could you explain the monthly plan",question
+"What are the steps to reset my password",question
